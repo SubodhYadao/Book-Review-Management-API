@@ -39,8 +39,9 @@ cd Book-Review-Management-API
 ### Create .env File
 
 ```bash
-    DB_URL=your_db_url
-    PORT=your_port
+ PORT=3000
+ MONGO_URI=yourmongourisetup
+ JWT_SECRET=yourSuperSecretKey
 ```
 
 ### Run teh server
