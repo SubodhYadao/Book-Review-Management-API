@@ -26,7 +26,7 @@ Input validation using Zod
 ### Clone the repo
 
 ```bash
-git clone https://github.com/Vinay14Newbie/Book-Review-Management-API.git
+git clone https://github.com/SubodhYadao/Book-Review-Management-API
 cd Book-Review-Management-API
 ```
 
